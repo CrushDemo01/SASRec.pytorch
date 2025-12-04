@@ -1,3 +1,9 @@
 .DS_Store
 __pycache__/
 *_default/
+.vscode/
+*.pyc
+.env
+.env.*
+.venv/
+venv/
